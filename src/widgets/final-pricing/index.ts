@@ -1,0 +1,1 @@
+export { FinalPricing } from "./ui/FinalPricing";
